@@ -39,8 +39,8 @@ document.addEventListener('DOMContentLoaded', function() {
   setupAuthDropdown();
   checkAndSetLoginStatus();
   
-  // 定期验证登录状态
-  setInterval(validateAuthStatus, 10000); // 每10秒检查一次
+  // 定期验证登录状态-跳过
+  //setInterval(validateAuthStatus, 10000); // 每10秒检查一次
 });
 
 // 初始化认证下拉菜单功能
