@@ -1,6 +1,6 @@
 // 全局常量配置
 
-const PROXY_URL = 'https://tvproxy.543083.xyz';
+const PROXY_URL = 'https://tvproxy.543083.xyz/';
 // const PROXY_URL = 'https://api.codetabs.com/v1/proxy?quest=';
 // https://crossorigin.me/
 // https://cors-proxy.htmldriven.com/?url=
